@@ -50,5 +50,5 @@ CREATE TABLE `job_info` (
 ) ENGINE=InnoDB AUTO_INCREMENT=351 DEFAULT CHARSET=utf8 COMMENT='招聘信息';
 ```
 
-![image-20190813172004285](/Users/huahuiyou/Library/Application Support/typora-user-images/image-20190813172004285.png)
+![image-20190813172004285](https://github.com/HuiYouHua/Crawler/blob/master/1.png)
 
